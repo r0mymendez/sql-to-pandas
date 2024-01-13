@@ -3,10 +3,9 @@
 
 <p align="center">
 
-![](img/fly-blue.jpeg)
-
-source image [Image by upklyak on Freepik](https://www.freepik.com/free-vector/plane-fly-blue-sky-with-clouds_21388594.htm#page=3&query=flights%20illustration&position=19&from_view=search&track=ais&uuid=82650d86-0491-4a8c-8ac1-763986dbdfb7")
-
+<img src="img/fly-blue.jpeg" alt="nycflights" border="0" >
+<p align="center">
+<p align="center">source image <a href="https://www.freepik.com/free-vector/plane-fly-blue-sky-with-clouds_21388594.htm#page=3&query=flights%20illustration&position=19&from_view=search&track=ais&uuid=82650d86-0491-4a8c-8ac1-763986dbdfb7">Image by upklyak on Freepik</a></p>
 </p>
 
 ---
@@ -25,5 +24,5 @@ We'll dive into the **nycflights13** dataset, which contains comprehensive data 
 > The nycflights13 library exclusively comprises tables with flight data from New York airports in 2023. Below, you can find a high-level representation of an entity-relationship diagram with its five tables.
 
 <p align="center">
-<img src="img/nycflights.png" alt="nycflights" border="0" width="40%">
+<img src="img/nycflights.png" alt="nycflights" border="0" width="80%">
 </p>
